@@ -2,7 +2,7 @@
 超星学习通 超星 签到 刷课
 
 # 源代码
-[Spring-data-jpa 源代码](https://github.com/ay1Jin/chaoxing/blob/master/chaoxing_sign.py)
+[超星学习通 签到 源代码](https://github.com/ay1Jin/chaoxing/blob/master/chaoxing_sign.py)
 
 # 食用方法
 git-clone下来
